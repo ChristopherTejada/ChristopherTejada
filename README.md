@@ -331,7 +331,9 @@
 
 <h2>GitHub :octocat:</h2>
 ### ⚙️ GitHub Analytics
+<h2 align="center">GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
 
+<!-- GitHub Analytics -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTejada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTejada&layout=compact&langs_count=6&theme=algolia"/>
@@ -345,10 +347,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ChristopherTejada&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
 </p>
 
----
-
-### 💻 Lenguajes que uso
-
+<!-- Lenguajes que uso -->
+<h3 align="center">💻 Lenguajes que uso</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
