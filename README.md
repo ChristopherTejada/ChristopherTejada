@@ -213,18 +213,18 @@
 </p>
 
 <!-- Ciberseguridad 🔒 -->
-<h4>Ciberseguridad 🔒</h4>
+<h4>🔒 Ciberseguridad</h4>
 <p align="left">
   <!-- Kali Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" title="Kali Linux" width="40" height="40"/>
   
   <!-- Wireshark -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="wireshark" title="Wireshark" width="40" height="40"/>
-
-<!-- Metasploit -->
-<img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/data/icons/metasploit-logo.png" alt="metasploit" title="Metasploit" width="40" height="40"/>
-
+  <img src="https://static-00.iconduck.com/assets.00/wireshark-icon-512x512-9n7v3z7u.png" alt="wireshark" title="Wireshark" width="40" height="40"/>
+  
+  <!-- Metasploit -->
+  <img src="https://static-00.iconduck.com/assets.00/metasploit-icon-512x512-7qf6z7zj.png" alt="metasploit" title="Metasploit" width="40" height="40"/>
 </p>
+
 
 <!-- Sistemas Operativos 💻 -->
 <h4>Sistemas Operativos 💻</h4>
