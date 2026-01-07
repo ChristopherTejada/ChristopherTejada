@@ -2,7 +2,8 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<!-- RAINBOW LINE TOP --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- RAINBOW LINE TOP --> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- <h1 align="center">Hola 👋  soy Christopher✨ </h1> -->
 <!--<p align="center">-->
@@ -15,11 +16,15 @@
 
 
 </p>
-<!-- RAINBOW LINE TOP --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- RAINBOW LINE TOP --> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<!-- VISTAS DEL PERFIL --> <p align="left"> <img src="https://komarev.com/ghpvc/?username=unsimpledev&label=Profile%20views&color=0e75b6&style=flat" alt="unsimpledev" /> </p>
+<!-- VISTAS DEL PERFIL --> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unsimpledev&label=Profile%20views&color=0e75b6&style=flat" alt="unsimpledev" /> </p>
 
+
+<!--
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christopher Ramirez"/>
@@ -35,8 +40,19 @@
   </a>
 </p>
 <br>
+--> 
 
-<!-- CONTACTO --> <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactos🤝:</h3> <p align="left"> <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> <a href="mailto:christopherdramirez07@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="christopherdramirez07@gmail.com" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> </p>
+
+<!-- CONTACTO --> 
+<h3 align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactos🤝:</h3> <p align="left"> <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank"> 
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> <a href="mailto:christopherdramirez07@gmail.com" target="blank"> 
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="christopherdramirez07@gmail.com" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank"> 
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> 
+</p>
 
 
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
