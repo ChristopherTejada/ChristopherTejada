@@ -156,7 +156,7 @@
 
 <ul>
   <li>
-    🤖 <b>IA para comunicación con el usuario</b>: desarrollo de un sistema conversacional que permita interacción natural con personas.
+    🤖 <b>La creaacion de una IA para comunicación con el usuario, este proyecto en tener un amigo digital en que todo el tiempo este activo, siempre en contacto con su usuario formando un lazo de compañerismo en el cual el usuario no tendra que abrir una aplicacion, si no que siempre lo tendra a su disposicion para comentar, platicar o preguntar cosas cotidianas o pasos en el que tenga duda, un tipo de  J.A.R.V.I.S. para todos</b>: desarrollo de un sistema conversacional que permita interacción natural y dinamica con personas.
     <br>Referencia: <a href="https://www.terapify.com/blog/terapia-psicologica-con-ia/" target="_blank">Terapia psicológica con IA</a>
   </li>
   
