@@ -3,9 +3,12 @@
 <!-- <h1 align="center">Hola 👋  soy Christopher✨ </h1> -->
 <!--<p align="center">-->
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=👋+Hola+soy+Christopher+✨;Ingeniero+en+Informática;Computer+Science+Engineer" />
-</a>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy+Christopher;Ingeniero+en+Informática;Computer+Science+Engineer" />
+  </a>
+</div>
+
 
 </p>
 <!-- RAINBOW LINE TOP --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
