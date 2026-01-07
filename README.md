@@ -41,6 +41,8 @@
 
 🤖 Gran entusiasmo por la <b>Inteligencia Artificial</b>, explorando su potencial para mejorar la comunicación, el bienestar y la automatización inteligente.
 
+👀 Interesado en proyectos futuros vinculados a <b>ciberseguridad, criptografía y hacking ético</b>, con el objetivo de aportar soluciones innovadoras y seguras en el ámbito TI. 
+
 💡 Persona proactiva, con mentalidad analítica y ambición por desarrollarse en proyectos de alto impacto, aportando soluciones creativas y eficientes.  
 
 🤝 Confiable y responsable, predispuesto tanto para el trabajo en equipo como para proyectos individuales, siempre buscando aportar valor y mejorar continuamente.  
@@ -49,27 +51,15 @@
 
 🌍 Mentalidad global, abierto a colaborar en proyectos internacionales y aportar valor en empresas líderes de informática y tecnología.  
 
-🔒 Ético y comprometido con la calidad, la seguridad y el impacto positivo de la tecnología en la sociedad.  
+🔒 Ético y comprometido con el aprendizaje continuo y la actualización en tendencias tecnológicas y la calidad, seguridad y el impacto positivo de la tecnología en la sociedad.  
+
+🎓 Siempre buscando crecer profesionalmente y aportar valor en empresas líderes de informática y tecnología.
 </p>
 <br>
 
 
-  
-
-
-
-💡 Interesado en proyectos futuros vinculados a <b>ciberseguridad, criptografía y hacking ético</b>, con el objetivo de aportar soluciones innovadoras y seguras en el ámbito TI.  
-
-🤖 Gran entusiasmo por la <b>Inteligencia Artificial</b>, explorando su potencial para mejorar la comunicación, el bienestar y la automatización inteligente.  
-
-🤝 Persona proactiva, confiable y responsable, con mentalidad analítica y predisposición para trabajar en equipo o liderar proyectos individuales.  
-
-📚 Comprometido con el aprendizaje continuo y la actualización en tendencias tecnológicas, siempre buscando crecer profesionalmente y aportar valor en empresas líderes de informática y tecnología.  
 </p>
 <br>
-
-
-
 
 
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
