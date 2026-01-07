@@ -45,14 +45,15 @@
 
 <!-- CONTACTO -->
 <h3 align="center">
-  <!-- Animación izquierda -->
+  <!-- Animación izquierdaç
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-  
+   -->
+	
   <!-- Texto -->
-  Contactos
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>Contactos <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/>
   
-  <!-- Animación derecha -->
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/>
+  <!-- Animación derecha --
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/> -->
 </h3>
 
 
