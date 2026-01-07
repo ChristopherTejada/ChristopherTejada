@@ -2,6 +2,9 @@
 <h1 align="center">Hola 👋  soy Christopher / unsimpleDev ✨ </h1> 
 <!-- RAINBOW LINE TOP --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+<!-- VISTAS DEL PERFIL --> <p align="left"> <img src="https://komarev.com/ghpvc/?username=unsimpledev&label=Profile%20views&color=0e75b6&style=flat" alt="unsimpledev" /> </p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christopher Ramirez"/>
