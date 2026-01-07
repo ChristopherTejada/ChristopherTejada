@@ -329,26 +329,26 @@
 </div>
 
 
-
-
-
-
 <h2>GitHub :octocat:</h2>
 
-
-
-
-
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics ⚙️
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <!-- Stats generales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTejada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  <!-- Lenguajes principales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTejada&layout=compact&langs_count=6&theme=algolia"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTejada&theme=dark&hide_border=false" />
+</p>
+
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChristopherTejada&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
 </p>
 
 
