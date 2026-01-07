@@ -119,7 +119,7 @@
 
 
 <!-- Bases de datos -->
-<h4>Bases de Datos🗄️>
+<h4>Bases de Datos🗄️</>
 </h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
