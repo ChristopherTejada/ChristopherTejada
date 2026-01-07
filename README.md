@@ -334,7 +334,6 @@
 
 <!-- GitHub Analytics -->
 <h3 align="center">⚙️ GitHub Analytics</h3>
-<code><img height="25" src="https://github.com/UjwalKandi/UjwalKandi/blob/c45f674e1145d04d97cd57f4e9dac336c5e29600/svg/jira-3.svg" alt="Jira"></code>
 
 </p>
 
