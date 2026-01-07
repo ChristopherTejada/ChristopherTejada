@@ -1,3 +1,6 @@
+<!-- RAINBOW LINE TOP --> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -277,16 +280,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <br>
 <!-------------------------->
 
@@ -328,6 +321,9 @@
 </ul>
 </div>
 
+<!-- RAINBOW LINE TOP --> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<br />
 
 <h2>GitHub :octocat:</h2>
 <h2 align="center">GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
@@ -348,15 +344,17 @@
 
 
 <p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/azizovrafael">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8"/>
+</p>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hema-priya-vadivel&theme=algolia) -->
