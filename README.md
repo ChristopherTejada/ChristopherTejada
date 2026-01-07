@@ -11,8 +11,8 @@
   </a>
   
   <a href="mailto:christopherdramirez07@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="christopherdramirez07@gmail.com"  />
-  </a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"   alt="christopherdramirez07@gmail.com" height="30" width="40" />
+</a>  
   
   <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank">
     <img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Christopher Ramirez" />
