@@ -110,7 +110,7 @@
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="left">Conocimientos adquiridos👨🏻‍💻:</h3>
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- Lenguajes 📚 -->
 <h4>Lenguajes 📚 </h4>
 <p align="left"> 
