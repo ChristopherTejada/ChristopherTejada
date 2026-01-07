@@ -333,7 +333,7 @@
 <h2 align="center">GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
 
 <!-- GitHub Analytics -->
-<h3 align="center">⚙️ GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics ⚙️</h3>
 
 </p>
 
@@ -347,42 +347,22 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<h2 align="center">GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
-
-<!-- GitHub Analytics -->
-<h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTejada&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTejada&layout=compact&langs_count=10&theme=blue-green"/>
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTejada&theme=dark&hide_border=false" />
-</p>
-
-<!-- Trophy Showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChristopherTejada&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</p>
 
 <!-- Lenguajes que uso -->
-<h3 align="center">💻 Lenguajes que uso</h3>
+<h3 align="center">Lenguajes que uso 💻</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
 </p>
 
