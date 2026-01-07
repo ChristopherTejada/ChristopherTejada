@@ -43,16 +43,29 @@
 --> 
 
 
-<!-- CONTACTO --> 
-<h3 align="left">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactos🤝:</h3> <p align="left"> <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank"> 
+<!-- CONTACTO -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Contactos 🤝
+</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> <a href="mailto:christopherdramirez07@gmail.com" target="blank"> 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="christopherdramirez07@gmail.com" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank"> 
+  <!-- Gmail -->
+  <a href="mailto:christopherdramirez07@gmail.com" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40"/>
+  </a>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> 
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
+  </a>
 </p>
+
 
 
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
