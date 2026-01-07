@@ -44,16 +44,13 @@
 
 
 <!-- CONTACTO -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <!-- GIF izquierdo -->
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" alt="robot"/>
-
-  <!-- Texto central -->
-  <h3 style="margin: 0;">Contactos</h3>
-
-  <!-- GIF derecho -->
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40" alt="handshake"/>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40"/></td>
+    <td><h3>Contactos</h3></td>
+    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40"/></td>
+  </tr>
+</table>
 
 
 
