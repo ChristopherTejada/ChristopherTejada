@@ -169,34 +169,6 @@
 
 <br>
 <!-------------------------->
-<div id="proyectos">
-<div id="proyectos">
-<h2>Algunos proyectos 👨🏻‍💻</h2>
-
-<ul>
-  <li>
-    🤖 <b>La creaacion de una IA para comunicación con el usuario, este proyecto en tener un amigo digital en que todo el tiempo este activo, siempre en contacto con su usuario formando un lazo de compañerismo en el cual el usuario no tendra que abrir una aplicacion, si no que siempre lo tendra a su disposicion para comentar, platicar o preguntar cosas cotidianas o pasos en el que tenga duda, un tipo de  J.A.R.V.I.S. para todos</b>: desarrollo de un sistema conversacional que permita interacción natural y dinamica con personas.
-    <br>Referencia: <a href="https://www.terapify.com/blog/terapia-psicologica-con-ia/" target="_blank">Terapia psicológica con IA</a>
-  </li>
-  
-  <li>
-    🎙️ <b>IA con voz de familiar para terapia postraumática</b>: adaptación de voces conocidas para acompañar procesos de rehabilitación emocional.
-    <br>Referencia: <a href="https://emprendepsicologo.com/terapia-asistida-inteligencia-artificial-psicologia/" target="_blank">Terapia asistida con IA en Psicología</a>
-  </li>
-  
-  <li>
-    🌐 <b>Creación de páginas web</b>: diseño y desarrollo de sitios profesionales desde cero.
-    <br>Referencia: <a href="https://nerade.com/blog/guia-completa-para-crear-paginas-web-desde-cero" target="_blank">Guía completa para crear páginas web</a>
-  </li>
-  
-  <li>
-    🧑‍💻 <b>Software para medir el estrés en programadores</b>: aplicación que evalúa el nivel de estrés, tiempo sentado y riesgos de sedentarismo/retina.
-    <br>Referencia: <a href="https://gbgterapiaonline.com.ar/bienestar-psicologico-para-programadores/" target="_blank">Bienestar psicológico para programadores</a>
-  </li>
-</ul>
-</div>
-
-
 
 <div id="proyectos">
 <h2>Algunos proyectos 👨🏻‍💻</h2>
