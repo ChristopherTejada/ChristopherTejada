@@ -356,18 +356,11 @@
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia) 
 
-
-
-
-
-
-
-
-# <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hema-priya-vadivel&theme=algolia) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
 
 
 
