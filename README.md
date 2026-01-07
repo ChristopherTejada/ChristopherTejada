@@ -334,46 +334,42 @@
 ### &nbsp;GitHub Analytics ⚙️
 
 <p align="center">
-  <!-- Stats generales -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTejada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-  <!-- Lenguajes principales -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTejada&layout=compact&langs_count=6&theme=algolia"/>
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherTejada&theme=dark&hide_border=false" />
 </p>
 
-<!-- Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChristopherTejada&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
 </p>
 
-
+---
 
 ### 💻 Lenguajes que uso
 
 <p align="center">
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  
+
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  
+
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
+
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  
+
   <!-- Go -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  
+
   <!-- Rust -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 </p>
+
 
 
 
