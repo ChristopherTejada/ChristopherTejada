@@ -45,15 +45,16 @@
 
 <!-- CONTACTO -->
 <h3 align="center">
-  <!-- Ícono animado pequeño -->
+  <!-- Animación izquierda -->
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
   
   <!-- Texto -->
-  Contactos 🤝
+  Contactos
   
-  <!-- Handshake animado más pequeño -->
+  <!-- Animación derecha -->
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/>
 </h3>
+
 
 
 <p align="center">
