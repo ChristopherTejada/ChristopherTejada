@@ -196,6 +196,49 @@
 </ul>
 </div>
 
+
+
+<div id="proyectos">
+<h2>Algunos proyectos 👨🏻‍💻</h2>
+
+<ul>
+  <li>
+    🤖 <b>IA para comunicación con el usuario</b>: creación de un asistente digital tipo J.A.R.V.I.S., siempre disponible para conversar, responder dudas y acompañar al usuario en su día a día.  
+    <br>Referencia: <a href="https://www.terapify.com/blog/terapia-psicologica-con-ia/" target="_blank">Terapia psicológica con IA</a>
+  </li>
+  
+  <li>
+    🎙️ <b>IA con voz de familiar para terapia postraumática</b>: adaptación de voces conocidas para acompañar procesos de rehabilitación emocional y terapias de apoyo.  
+    <br>Referencia: <a href="https://emprendepsicologo.com/terapia-asistida-inteligencia-artificial-psicologia/" target="_blank">Terapia asistida con IA en Psicología</a>
+  </li>
+  
+  <li>
+    🛡️ <b>Innovaciones en ciberseguridad y criptografía</b>: investigación y desarrollo de sistemas seguros basados en criptografía avanzada, con aplicaciones en protección de datos, autenticación y privacidad digital.  
+    <br>Referencia: <a href="https://www.ibm.com/quantum/cryptography" target="_blank">IBM – Criptografía cuántica</a>
+  </li>
+  
+  <li>
+    🕵️ <b>Hacking ético</b>: diseño de herramientas y entornos de prueba para identificar vulnerabilidades en sistemas, con el objetivo de fortalecer la seguridad informática y formar profesionales en seguridad ofensiva y defensiva.  
+    <br>Referencia: <a href="https://www.kaspersky.com/resource-center/definitions/what-is-ethical-hacking" target="_blank">Kaspersky – Qué es el hacking ético</a>
+  </li>
+  
+  <li>
+    🌐 <b>Creación de páginas web</b>: diseño y desarrollo de sitios profesionales desde cero, aplicando buenas prácticas de accesibilidad y optimización.  
+    <br>Referencia: <a href="https://nerade.com/blog/guia-completa-para-crear-paginas-web-desde-cero" target="_blank">Guía completa para crear páginas web</a>
+  </li>
+  
+  <li>
+    🧑‍💻 <b>Software para medir el estrés en programadores</b>: aplicación que evalúa el nivel de estrés, tiempo sentado y riesgos de sedentarismo/retina, promoviendo el bienestar en entornos de trabajo tecnológico.  
+    <br>Referencia: <a href="https://gbgterapiaonline.com.ar/bienestar-psicologico-para-programadores/" target="_blank">Bienestar psicológico para programadores</a>
+  </li>
+</ul>
+</div>
+
+
+
+
+
+
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
