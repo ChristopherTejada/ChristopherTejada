@@ -331,7 +331,7 @@
 <!-- GitHub Analytics -->
 <h3 align="center">GitHub Analytics ⚙️</h3>
 
-</p>
+<!--</p>-->
 
 <br />
 <!--
