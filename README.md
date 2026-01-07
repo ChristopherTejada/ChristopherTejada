@@ -179,7 +179,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
-
+<!-- Back-end ⚙️ --> <h4>Back-end⚙️</h4> <p align="left"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/> <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/> <img width="30px" src="https://user-images.githubusercontent.com
 
 <!-- Sistemas Operativos -->
 <h4>Sistemas Operativos💻</h4>
@@ -189,10 +189,54 @@
   </a>
 </p>
 
-
-
-
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
+
+
+
+
+
+
+
+<!-- Back-end -->
+<kbd>Back-end</kbd>
+<br><br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
+<img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
+<img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="Websocket"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
+
+<!-- Automation, Data Science & AI -->
+<kbd>Automation, Data Science & AI</kbd>
+<br><br>
+<img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
+<img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
+<img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
+<img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
+<img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
+
+<!-- Terminal Scripts -->
+<kbd>Terminal Scripts</kbd>
+<br><br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
+
+<!-- Game Development -->
+<kbd>Game Development</kbd>
+<br><br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
+
+
+
 
 
 
