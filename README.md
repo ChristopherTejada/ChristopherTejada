@@ -82,7 +82,7 @@
 <h3 align="left">Conocimientos adquiridos👨🏻‍💻:</h3>
 
 <!-- Lenguajes 📚 -->
-<h4>Lenguajes📚 </h4>
+<h4>Lenguajes 📚 </h4>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -134,7 +134,7 @@
 
 
 <!-- Bases de datos -->
-<h4>Bases de Datos🗄️</>
+<h4>Bases de Datos 🗄️</>
 </h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -180,7 +180,7 @@
   </a>
 </p>
 <!-- Back-end ⚙️ -->
-<h4>⚙️ Back-end</h4>
+<h4>Back-end ⚙️</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" title="Express" width="40" height="40"/>
@@ -190,7 +190,7 @@
 </p>
 
 <!-- Automation, Data Science & AI 🤖 -->
-<h4>🤖 Automation, Data Science & AI</h4>
+<h4>Automation, Data Science & AI 🤖</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="40" height="40"/>
@@ -200,33 +200,34 @@
 </p>
 
 <!-- Game Development 🎮 -->
-<h4>🎮 Game Development</h4>
+<h4>Game Development 🎮</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine" width="40" height="40"/>
 </p>
 
 <!-- Terminal Scripts 🖥️ -->
-<h4>🖥️ Terminal Scripts</h4>
+<h4>Terminal Scripts 🖥️</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim" width="40" height="40"/>
 </p>
 
 <!-- Ciberseguridad 🔒 -->
-<h4>🔒 Ciberseguridad</h4>
+<h4>Ciberseguridad 🔒</h4>
 <p align="left">
   <!-- Kali Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" title="Kali Linux" width="40" height="40"/>
   
   <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wireshark_icon.svg" alt="wireshark" title="Wireshark" width="40" height="40"/>
-  
-  <!-- Metasploit -->
-  <img src="https://www.kali.org/wp-content/uploads/2021/03/metasploit-icon.svg" alt="metasploit" title="Metasploit" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="wireshark" title="Wireshark" width="40" height="40"/>
+
+<!-- Metasploit -->
+<img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/data/icons/metasploit-logo.png" alt="metasploit" title="Metasploit" width="40" height="40"/>
+
 </p>
 
 <!-- Sistemas Operativos 💻 -->
-<h4>💻 Sistemas Operativos</h4>
+<h4>Sistemas Operativos 💻</h4>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
