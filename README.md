@@ -24,10 +24,50 @@
 <!-- CONTACTO --> <h3 align="left">Contactos:</h3> <p align="left"> <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> <a href="mailto:christopherdramirez07@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="christopherdramirez07@gmail.com" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> </p>
 
 
+<!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+
+
+
+<p align="left">
+🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica.  
+
+🚀 Orientado a resultados, con fuerte motivación para asumir retos, aprender nuevas tecnologías y crecer profesionalmente en la industria TI.  
+
+💡 Persona proactiva, con mentalidad analítica y ambición por desarrollarse en proyectos de alto impacto, aportando soluciones creativas y eficientes.  
+
+🤝 Confiable y responsable, predispuesto tanto para el trabajo en equipo como para proyectos individuales, siempre buscando aportar valor y mejorar continuamente.  
+
+📚 Comprometido con el aprendizaje constante y la actualización en tendencias tecnológicas, con el objetivo de contribuir al éxito de la mejor empresa de informática y tecnología.  
+</p>
+<br>
+
+
+
+<p align="left">
+🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica.  
+
+🚀 Orientado a resultados, con fuerte motivación para asumir retos, aprender nuevas tecnologías y crecer profesionalmente en la industria TI.  
+
+💡 Proactivo y analítico, con experiencia en múltiples lenguajes de programación y frameworks, capaz de adaptarse a distintos entornos y aportar soluciones creativas y eficientes.  
+
+🤝 Confiable y responsable, predispuesto tanto para el trabajo en equipo como para proyectos individuales, con habilidades de comunicación y liderazgo que facilitan la colaboración en equipos multidisciplinarios.  
+
+📚 Comprometido con el aprendizaje constante y la actualización en tendencias tecnológicas, especialmente en áreas como inteligencia artificial, desarrollo web y software orientado al bienestar.  
+
+🌍 Mentalidad global, abierto a colaborar en proyectos internacionales y aportar valor en empresas líderes de informática y tecnología.  
+
+🔒 Ético y comprometido con la calidad, la seguridad y el impacto positivo de la tecnología en la sociedad.  
+</p>
+<br>
+
+
+
+
+
 
 <p align="left">
 🎓 INGENIERO EN INFORMÁTICA
@@ -45,12 +85,12 @@
 
 
 
+<!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<h3 align="left">Languages and Tools👨🏻‍💻:</h3>
+<h3 align="left">Conocimientos adquiridos👨🏻‍💻:</h3>
 
 <!-- Lenguajes -->
-<h4>Lenguajes</h4>
+<h4>Lenguajes📚</h4>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -97,7 +137,7 @@
 </p>
 
 <!-- Bases de datos -->
-<h4>Bases de Datos<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="database" width="40" height="40"/>
+<h4>Bases de Datos🗄️>
 </h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -115,7 +155,7 @@
 </p>
 
 <!-- Tools -->
-<h4>Tools<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="tools" width="40" height="40"/>
+<h4>Tools🛠️/>
 </h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -136,8 +176,7 @@
 </p>
 
 <!-- Sistemas Operativos -->
-<h4>Sistemas Operativos<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-👨🏻‍💻</h4>
+<h4>Sistemas Operativos💻</h4>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
