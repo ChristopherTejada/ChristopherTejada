@@ -33,30 +33,19 @@
 
 
 <p align="left">
-🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica.  
+🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica;  y ayudante/profesor en la materia Teoría de Algoritmos, con experiencia en docencia y transmisión de conocimientos técnicos.
 
 🚀 Orientado a resultados, con fuerte motivación para asumir retos, aprender nuevas tecnologías y crecer profesionalmente en la industria TI.  
+
+🛠️  Apasionado por el desarrollo de software, la innovación tecnológica y la investigación aplicada en áreas de alto impacto.
+
+🤖 Gran entusiasmo por la <b>Inteligencia Artificial</b>, explorando su potencial para mejorar la comunicación, el bienestar y la automatización inteligente.
 
 💡 Persona proactiva, con mentalidad analítica y ambición por desarrollarse en proyectos de alto impacto, aportando soluciones creativas y eficientes.  
 
 🤝 Confiable y responsable, predispuesto tanto para el trabajo en equipo como para proyectos individuales, siempre buscando aportar valor y mejorar continuamente.  
 
 📚 Comprometido con el aprendizaje constante y la actualización en tendencias tecnológicas, con el objetivo de contribuir al éxito de la mejor empresa de informática y tecnología.  
-</p>
-<br>
-
-
-
-<p align="left">
-🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica.  
-
-🚀 Orientado a resultados, con fuerte motivación para asumir retos, aprender nuevas tecnologías y crecer profesionalmente en la industria TI.  
-
-💡 Proactivo y analítico, con experiencia en múltiples lenguajes de programación y frameworks, capaz de adaptarse a distintos entornos y aportar soluciones creativas y eficientes.  
-
-🤝 Confiable y responsable, predispuesto tanto para el trabajo en equipo como para proyectos individuales, con habilidades de comunicación y liderazgo que facilitan la colaboración en equipos multidisciplinarios.  
-
-📚 Comprometido con el aprendizaje constante y la actualización en tendencias tecnológicas, especialmente en áreas como inteligencia artificial, desarrollo web y software orientado al bienestar.  
 
 🌍 Mentalidad global, abierto a colaborar en proyectos internacionales y aportar valor en empresas líderes de informática y tecnología.  
 
@@ -65,23 +54,21 @@
 <br>
 
 
+  
 
 
 
+💡 Interesado en proyectos futuros vinculados a <b>ciberseguridad, criptografía y hacking ético</b>, con el objetivo de aportar soluciones innovadoras y seguras en el ámbito TI.  
 
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🤖 Gran entusiasmo por la <b>Inteligencia Artificial</b>, explorando su potencial para mejorar la comunicación, el bienestar y la automatización inteligente.  
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🤝 Persona proactiva, confiable y responsable, con mentalidad analítica y predisposición para trabajar en equipo o liderar proyectos individuales.  
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
+📚 Comprometido con el aprendizaje continuo y la actualización en tendencias tecnológicas, siempre buscando crecer profesionalmente y aportar valor en empresas líderes de informática y tecnología.  
+</p>
 <br>
+
+
 
 
 
