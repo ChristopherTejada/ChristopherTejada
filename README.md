@@ -44,14 +44,11 @@
 
 
 <!-- CONTACTO -->
-<table align="center">
-  <tr>
-    <td><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40"/></td>
-    <td><h3>Contactos</h3></td>
-    <td><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40"/></td>
-  </tr>
-</table>
-
+<p align="center" style="margin: 0;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36" height="36" style="vertical-align: middle; margin-right: 8px;"/>
+  <span style="font-size: 24px; font-weight: bold;">Contactos</span>
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="36" height="36" style="vertical-align: middle; margin-left: 8px;"/>
+</p>
 
 
 
