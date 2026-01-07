@@ -330,10 +330,10 @@
 
 
 <h2>GitHub :octocat:</h2>
-### ⚙️ GitHub Analytics
 <h2 align="center">GitHub <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30"/></h2>
 
 <!-- GitHub Analytics -->
+<h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherTejada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherTejada&layout=compact&langs_count=6&theme=algolia"/>
@@ -357,6 +357,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
 </p>
+
 
 
 
