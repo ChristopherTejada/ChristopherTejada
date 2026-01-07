@@ -97,7 +97,8 @@
 </p>
 
 <!-- Bases de datos -->
-<h4>Bases de Datos</h4>
+<h4>Bases de Datos<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="database" width="40" height="40"/>
+</h4>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -176,17 +177,6 @@
   </li>
 </ul>
 </div>
-
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
