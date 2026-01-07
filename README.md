@@ -21,6 +21,7 @@
 </p>
 <br>
 
+<!-- CONTACTO --> <h3 align="left">Contactos:</h3> <p align="left"> <a href="https://www.linkedin.com/in/christopher-ramirez007" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> <a href="mailto:christopherdramirez07@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="christopherdramirez07@gmail.com" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/32157944/christopher-ramirez" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Christopher Ramirez" height="30" width="40" /> </a> </p>
 
 
 
