@@ -71,7 +71,7 @@
 <!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<h2>Sobre mi 😃</h2>
+<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mi 😃</h2>
 <!--Intro start-->
 
 
