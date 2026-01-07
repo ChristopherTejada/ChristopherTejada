@@ -72,9 +72,10 @@
 
 
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mi 😃</h2>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <!--Intro start-->
-
-
 
 <p align="left">
 🎓 Estudiante de 3er año de Ingeniería Informática en FIUBA, apasionado por el desarrollo de software y la innovación tecnológica;  y ayudante/profesor en la materia Teoría de Algoritmos, con experiencia en docencia y transmisión de conocimientos técnicos.
